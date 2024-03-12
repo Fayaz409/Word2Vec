@@ -1,4 +1,4 @@
-**Project Title: Text Preprocessing and Word Embedding**
+# **Text Preprocessing and Word Embedding**
 
 **Purpose**
 
